@@ -1,7 +1,9 @@
-body {
+html {
 	background-color: rgb(138, 150, 33);
 }
-
+.row{
+    background-color: rgb(138, 150, 33);
+}
 .header h2 {
 	color: #DC4247;
 }
@@ -9,7 +11,6 @@ body {
 .header p {
 	color: #50524F;
 }
-
 .results {
 	
 	margin-top: 20px;
